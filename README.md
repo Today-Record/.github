@@ -1,1 +1,1 @@
-# .github
+Hello, Welcome TodayRecord!
